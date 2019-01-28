@@ -1,0 +1,23 @@
+What are this tags for?
+
+- <br> Salt de línia
+- <hr> pinta una línia horitzontal
+- <ul> Llista d'articles sense no
+- <ol>Defineix una llista ordenada d'articles
+- <li>Defineix un article d'una llista enumerada
+- <strong> Representa un text important
+- <b>negreta
+- <em> emfatitzar el text
+- <i>italics
+- <u>etiquetar un text
+- <h1>Estil titol amb lletra gran
+- <h6>Estl lletra petita
+- <tr>Representa una fila de celdas
+- <th>Una celda de la capçalera
+- <td>Representa una celda de dades
+- <sub>representa subindex
+- <sup>respresenta superindex
+- <legend>Llegenda que crea un titol
+
+What is an empty tag? Give an example
+Son els que no tenen tancament com ara <br>
